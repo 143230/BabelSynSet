@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-beanutils-core-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-configuration-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-digester-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/icu4j-56.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jltutils-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jwi-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-core-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lucene-core-4.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lucene-queryparser-4.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
